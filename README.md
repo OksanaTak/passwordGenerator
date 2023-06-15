@@ -28,6 +28,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ### Screenshots
-
+![Screenshot](https://github.com/OksanaTak/passwordGenerator/blob/main/screenshrot.png)
 
 ### Deployment
+[Live](https://oksanatak.github.io/passwordGenerator/)
