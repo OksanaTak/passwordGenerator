@@ -1,10 +1,8 @@
-# Password Generator Starter Code
-
+# Password Generator App
+This Password Generator App  can be used to generate a random password based on selected criteria such as number of characters from 8 to 128 an the type of characters (lowercase, uppercase, numeric, and/or special characters).
 ## Author: Oksana Tatsyak
 
 ## USer Requirements:
-
-
 ####  User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -28,7 +26,14 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ### Screenshots
-![Screenshot](https://github.com/OksanaTak/passwordGenerator/blob/main/screenshrot.png)
+[Screenshot1](/password-generator1.png)
+ [Screenshot2](/password-generator2.png)
 
 ### Deployment
-[Live](https://oksanatak.github.io/passwordGenerator/)
+[Live Deployment Link](https://oksanatak.github.io/passwordGenerator/)
+
+[GITHUB Link](https://github.com/OksanaTak/passwordGenerator) 
+
+
+
+ 
